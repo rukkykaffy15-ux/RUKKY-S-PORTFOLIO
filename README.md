@@ -3,7 +3,7 @@
 
 ## PROJECT OVERVIEW
 
-This analysis aims to provde insights and compares sales performance across 2022,2023 and first month in 2024 to evaluate growth trends, operational efficiency, 
+This analysis aims to provide insights and compares sales performance across 2022,2023 and first month in 2024 to evaluate growth trends, operational efficiency, 
 and shifts in customer demand.
 
 ### Data Sources
@@ -16,7 +16,7 @@ Sales Data : The Primary dataset used for the analysis is the  sales_data.csv fi
 - PowerBI - Creating Report & Dashboard 
 
 ### Data Cleaning/Preparation
-In the begining stage ,I performed the following task:
+In the begining stage,I performed the following task:
 
 1. Data loading and inspection.
 2. Checking and Handling missing values
