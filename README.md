@@ -6,7 +6,8 @@
 This analysis aims to provide insights and compares sales performance across 2022,2023 and first month in 2024 to evaluate growth trends, operational efficiency, 
 and shifts in customer demand.
 
-[DASAS SALES.pdf](https://github.com/user-attachments/files/23604637/DASAS.SALES.pdf)
+![sales](https://github.com/user-attachments/assets/8dc1dc77-45bf-46de-85f5-7e7e56839f45)
+
 
 
 ### Data Sources
