@@ -2,6 +2,7 @@
 
 
 ## PROJECT OVERVIEW
+![sales](https://github.com/user-attachments/assets/15046f7a-49f4-42c4-acf3-430fa07e325c)
 
 This analysis aims to provide insights and compares sales performance across 2022,2023 and first month in 2024 to evaluate growth trends, operational efficiency, 
 and shifts in customer demand.
